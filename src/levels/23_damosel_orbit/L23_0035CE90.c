@@ -333,4 +333,4 @@ void func_L23_00416090(char *arg0) {
         *(unsigned short *)(arg0 + 0x96) += 1;
 }
 
-INCLUDE_ASM("asm/levels", func_L23_004160B0);
+/* func_L23_004160B0 is matched in L23_004160B0-g8.c (built with -g). */

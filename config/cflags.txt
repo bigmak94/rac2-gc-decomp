@@ -148,6 +148,7 @@ src/levels/shared/L05_00446E28.c	-O2 -G8 -ffunction-sections
 src/levels/shared/L10_0037D200.c	-O2 -G8 -ffunction-sections
 src/levels/23_damosel_orbit/L23_003BF9B0-g8.c	-O2 -G8 -ffunction-sections -g
 src/levels/23_damosel_orbit/L23_003C00D0.c	-O2 -G0 -ffunction-sections -g
+src/levels/23_damosel_orbit/L23_004160B0-g8.c	-O2 -G8 -ffunction-sections -g
 src/levels/23_damosel_orbit/L23_0041B968-g8.c	-O2 -G8 -ffunction-sections -mno-split-addresses
 src/levels/23_damosel_orbit/L23_004402D8-g8.c	-O2 -G8 -ffunction-sections -g
 
